@@ -2,7 +2,7 @@
 
 I'm a creative technologist passionate about blending design, automation, and intelligence to build meaningful digital experiences.
 
-- 🔭 I’m currently building [**FixMyCal**](https://fixmycal.com) — a smart scheduling and customer service automation tool for small businesses.
+- 🔭 I’m currently building [**FixMyCal**](https://fixmycal.com) — a smart scheduling and customer service automation tool for businesses.
 - 🌱 I’m learning **AI development** and improving my skills with **Python**, **FastAPI**, and **cloud integrations**.
 - 👯 I’m looking to collaborate on projects at the intersection of **AI**, **automation**, and **web development**.
 - 💬 Ask me about **web apps**, **n8n automations**, **AI agents**, or even **photography**!
